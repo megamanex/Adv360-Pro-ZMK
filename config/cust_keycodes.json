@@ -1,1 +1,36 @@
-[]
+[
+	{
+		"names": [
+			"LEFT_COMMAND+UP_ARROW"
+		],
+		"description": "LEFT_COMMAND+UP_ARROW",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"LEFT_COMMAND+DOWN_ARROW"
+		],
+		"description": "LEFT_COMMAND+DOWN_ARROW",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
